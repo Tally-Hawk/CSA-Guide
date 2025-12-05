@@ -1,2 +1,4 @@
-# CSA-Guide
-An Ideal Cyber Security Analyst Role Preparation Guide
+#راهنمای تحلیلگر امنیت ساییبری
+
+راهنمای جامع آماده‌سازی برای نقش تحلیلگر امنیت سایبری ایده‌آل
+
