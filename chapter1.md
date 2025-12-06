@@ -2,8 +2,10 @@
 
 ## ساختار امنیت اطلاعات(InfoSec)
 
-<audio controls preload="none" style="width:100%;">
-  <source src=".../main/files/ElevenLabs_2025-12-06T04_10_59_Noushin_pvc_sp100_s50_sb75_v3.mp3" type="audio/mpeg">
+### گوش کنید به نسخه کوتاه به زبان فارسی
+
+<audio controls preload="none" style="width: 100%; max-width: 600px;">
+  <source src="../main/files/ElevenLabs_2025-12-06T04_10_59_Noushin_pvc_sp100_s50_sb75_v3.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
