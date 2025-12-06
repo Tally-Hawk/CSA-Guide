@@ -5,7 +5,7 @@
 ### گوش کنید به نسخه کوتاه به زبان فارسی
 
 <audio controls style="width:100%">
-  <source src="https://raw.githubusercontent.com/tally-hawk/CSA-Guide/main/files/ElevenLabs_2025-12-06T04_10_59_Noushin_pvc_sp100_s50_sb75_v3.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/Tally-Hawk/CSA-Guide/main/files/ElevenLabs_2025-12-06T04_10_59_Noushin_pvc_sp100_s50_sb75_v3.mp3" type="audio/mpeg">
   مرورگر شما از پخش صدا پشتیبانی نمی‌کند.
 </audio>
 
