@@ -171,6 +171,7 @@
    
 
 <img src="../main/files/architectures.jpg" width="600">
+
 ## فناوری‌های بی‌سیم 📶✨
 
 ### گوش کنید به نسخه کوتاه به زبان فارسی 🎧 [Audio](https://open.spotify.com/episode/6J0KHrvtLnO5UylBm1uSl6?si=DE18vSanScKH30wK95JL5Q)
