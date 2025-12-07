@@ -127,7 +127,7 @@
 5.  سرویس‌دهنده نام TLD، استعلام را به **سرویس‌دهنده نام معتبر** هدایت می‌کند، که در نهایت آدرس IP را برمی‌گرداند.
 
 <img src="../main/files/DNS.png" width="600">
-<img src="../main/files/DNSProcess.png" width="600">
+<img src="../main/files/DNSprocess.png" width="600">
 
 ## نمونه مرور اینترنت
 
