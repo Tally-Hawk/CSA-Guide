@@ -128,6 +128,7 @@
 
 <img src="../main/files/DNS.png" width="600">
 <img src="../main/files/DNSProcess.png" width="600">
+
 ## نمونه مرور اینترنت
 
 هنگام مرور اینترنت، این فرآیند شامل چندین مرحله است:
