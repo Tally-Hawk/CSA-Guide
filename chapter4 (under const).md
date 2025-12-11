@@ -198,7 +198,7 @@ echo ${domains[3]}
 
 #### ۲. عملگرهای رشته (String Operators)
 ```bash
-"$1" == "HackTheBox"     # برابر باشه
+"$1" == "Arash"     # برابر باشه
 "$1" != "something"      # نابرابر باشه
 [[ "$1" < "m" ]]          # کوچکتر از m در ترتیب ASCII (فقط داخل [[ ]])
 [[ "$1" > "M" ]]          # بزرگتر از M
@@ -209,7 +209,7 @@ echo ${domains[3]}
 **مثال واقعی:**
 ```bash
 #!/bin/bash
-if [[ "$1" == "HackTheBox" ]]; then
+if [[ "$1" == "Arash" ]]; then
     echo "درست وارد شدی!"
 else
     echo "برو دوباره بخون!"
@@ -269,31 +269,6 @@ fi
 ```bash
 [[ -f "$1" && -r "$1" ]] && cat "$1"   # اگر فایل باشه و قابل خوندن
 [[ -z "$1" || "$1" == "secret" ]] && echo "ورود مجاز!"
-```
-
-#### تمرین آخر PDF (Exercise Script)
-یه اسکریپت می‌ده که باید این کارها رو انجام بده:
-- یه متغیر `var` داره با یه رشته خیلی بلند عجیب غریب
-- یه متغیر `value` که یه رشته خیلی طولانی از `5` هست
-- باید چک کنی که اگه `var` حاوی **حرف بزرگ "F"** باشه → `echo "b4dw0rd"` چاپ کنه
-- در غیر این صورت → `echo -e "if condition here:"` چاپ کنه
-
-جواب درستش اینه:
-```bash
-#!/bin/bash
-var="ScanRj5J2887w2d1s1"
-value="5d5d5d5d5d..."   # کلی 5
-
-for i in {1..60}
-do
-    var=$(echo $var | base64)   # هر بار base64 می‌گیره
-done
-
-if [[ $var == *"F"* ]]; then
-    echo "b4dw0rd"
-else
-    echo -e "if condition here:"
-fi
 ```
 
 
