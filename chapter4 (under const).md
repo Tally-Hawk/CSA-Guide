@@ -1,5 +1,5 @@
-# ** Introduction to Bash Scripting **
-### **  (Conditional Execution) اجرای شرطی  **
+# Introduction to Bash Scripting
+### (Conditional Execution) اجرای شرطی
 
 این صفحه از دوره **Introduction to Bash Scripting** در آکادمی **Hack The Box (HTB)** است و به صورت عملی و تصویری به آموزش **اجرای شرطی** در اسکریپت‌نویسی بش می‌پردازد. هدف اصلی این درس، یادگیری چگونگی کنترل جریان اجرای اسکریپت با استفاده از دستورات `if`، `elif`، `else` و ترکیب آن‌ها با عملگرهای مقایسه است.
 
